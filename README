@@ -1,0 +1,7 @@
+deb files include ffmpeg
+
+Compile from source code use cmake
+
+copy ffmpeg to exe_dir
+
+ffmpeg compile with compileSetup
