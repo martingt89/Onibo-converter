@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Onibo converter
+Comment=Uversal video and audio converter for linux
+Exec=onibo-converter
+Icon=/usr/share/pixmaps/onibo-converter.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;
+StartupNotify=true

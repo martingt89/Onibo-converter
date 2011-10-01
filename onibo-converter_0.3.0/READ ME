@@ -1,0 +1,25 @@
+Dependency:
+---------------------------------------------
+Build:
+libgtkmm-2.4-dev
+cmake
+---------------------------------------------
+Convert:
+libtheora0
+libvorbisenc2
+libxvidcore4
+libfaac0
+libmp3lame0
+---------------------------------------------
+Install
+1. cd build_release
+2. cmake -DCMAKE_BUILD_TYPE=Releas ../
+3. make
+4. sudo make install
+5. onibo-converter
+
+Uninstall
+1. cd build_release
+2. sudo make uninstall
+3. sudo rm -r /usr/share/onibo-converter
+4. sudo rm -r /usr/share/doc/onibo-converter

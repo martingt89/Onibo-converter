@@ -1,0 +1,19 @@
+#moj prvy profil čučoriedka
+type="Nokia"
+name="XpressMusic 5530"
+container="mp4"
+video="custom"
+audio="custom"
+#video nastavenia
+vcodec="mpeg4"
+vbitrate="700"
+framerate="25"
+resolution="16:9"
+resx="640"
+resy="360"
+x264="no"
+#audio nastavenia
+acodec="libfaac"
+channels="original"
+abitrate="128"
+rate="original"
